@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -6,7 +6,6 @@ body
 	font-family: Arial, Avenir, Myriad;
 	font-size: 1em;
 	line-height: 1.7em;
-	background-color: #ffebcd;
 }
 
 a
@@ -377,6 +376,8 @@ html.templateTopic div.sideContent
 	display: none;
 }
 
-nav.tab-bar {
+nav.tab-bar
+{
 	height: 200px;
 }
+
